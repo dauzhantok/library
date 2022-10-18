@@ -1,4 +1,4 @@
-module library
+module github.com/dauzhantok/library
 
 go 1.19
 
