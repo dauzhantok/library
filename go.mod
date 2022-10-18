@@ -1,4 +1,4 @@
-module gitlab.apps.bcc.kz/operational-crm/library
+module library
 
 go 1.19
 
